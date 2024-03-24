@@ -10,4 +10,4 @@ following a web develepment bootcamp course on udemy
 * run npm install to install the dependencies 
 * run npm start or nodemon app.js to run on local server 3000
 
-### live: https://afternoon-beyond-35163.herokuapp.com/
+
